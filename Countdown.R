@@ -9,4 +9,4 @@ countdown <- function(from)
   }
 }
 
-countdown(60000)
+countdown(6000000)
